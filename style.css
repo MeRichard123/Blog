@@ -100,6 +100,9 @@ audio {
   margin: 0 auto;
   border: 3px solid #3fb6b2;
 }
+.webmedia{
+  object-fit:contain;
+}
 hr {
   border: 0;
   height: 1px;
